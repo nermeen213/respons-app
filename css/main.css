@@ -4,6 +4,9 @@
 
 
 /************************section home**********************/
+html {
+    scroll-behavior: unset !important;
+}
 #home {
     min-height: 100vh;
     background:  linear-gradient(#e9050557,#d1060657) , url('../img/f27e20de-42ef-4bc1-bb3d-e1a5d07d12ca.jpg');
